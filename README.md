@@ -1,7 +1,7 @@
 
 
 # Manual Software Testing Project - Fabrilife  
----
+
 This project involves manual testing of **Fabrilife**, an e-commerce platform widely used by people in Bangladesh for purchasing clothing and fashion items. Over the course of the project, I identified and reported **over 1000 issues** spanning various aspects of software testing, including **UI, functional, non-functional, usability, security, performance, and database testing**.  
 
 ## Getting Started  
